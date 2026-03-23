@@ -32,7 +32,6 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-0a0f1e?style=for-the-badge&logo=express&logoColor=38BDF8)
 ![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-0EA5E9?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -53,7 +52,6 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-0c2340?style=for-the-badge&logo=webpack&logoColor=38BDF8)
 
 ### 🗄️ Database & Cache
 ![MySQL](https://img.shields.io/badge/MySQL-0c2340?style=for-the-badge&logo=mysql&logoColor=38BDF8)
@@ -66,16 +64,12 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ![Solidity](https://img.shields.io/badge/Solidity-0a0f1e?style=for-the-badge&logo=solidity&logoColor=38BDF8)
 ![Hardhat](https://img.shields.io/badge/Hardhat-0c2340?style=for-the-badge&logo=hardhat&logoColor=38BDF8)
 ![Ethereum](https://img.shields.io/badge/Ethereum-0EA5E9?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-1e3a5f?style=for-the-badge&logo=ipfs&logoColor=38BDF8)
 
 ### ☁️ Cloud, Hosting & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-0c2340?style=for-the-badge&logo=nginx&logoColor=38BDF8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0a0f1e?style=for-the-badge&logo=github-actions&logoColor=38BDF8)
 ![Vercel](https://img.shields.io/badge/Vercel-0a0f1e?style=for-the-badge&logo=vercel&logoColor=38BDF8)
-![Railway](https://img.shields.io/badge/Railway-0c2340?style=for-the-badge&logo=railway&logoColor=38BDF8)
 ![VPS](https://img.shields.io/badge/VPS%20Hosting-1e3a5f?style=for-the-badge&logo=linux&logoColor=38BDF8)
 
 ### 🔧 Tools & Produktivitas
@@ -83,12 +77,9 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=38BDF8)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0EA5E9?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0c2340?style=for-the-badge&logo=linux&logoColor=38BDF8)
 ![Composer](https://img.shields.io/badge/Composer-1e3a5f?style=for-the-badge&logo=composer&logoColor=38BDF8)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0c2340?style=for-the-badge&logo=figma&logoColor=38BDF8)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![TablePlus](https://img.shields.io/badge/TablePlus-0EA5E9?style=for-the-badge&logo=tableplus&logoColor=white)
 
 ---
 
