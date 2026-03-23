@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0c2340,100:0ea5e9&height=200&section=header&text=Mohammad%20Fajar%20Rosyidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Blockchain%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0c2340,100:0ea5e9&height=200&section=header&text=Mohammad%20Fajar%20Rosyidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://github.com/Fajarrosyidi24">
