@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:38BDF8,100:7DD3FC&height=200&section=header&text=Mohammad%20Fajar%20Rosyidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Blockchain%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=80&lines=🔥+Laravel+is+my+home+—+Backend+is+my+playground;⛓️+I+build+apps+that+matter+for+real+people;🚀+From+Santri+Management+to+Blockchain+Voting" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0c2340,100:0ea5e9&height=200&section=header&text=Mohammad%20Fajar%20Rosyidi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20Enthusiast%20%7C%20Blockchain%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <p>
   <a href="https://github.com/Fajarrosyidi24">
-    <img src="https://img.shields.io/github/followers/Fajarrosyidi24?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0c1a2e&logo=github" />
+    <img src="https://img.shields.io/github/followers/Fajarrosyidi24?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0a0f1e&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Fajarrosyidi24&style=for-the-badge&color=38BDF8&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-7DD3FC?style=for-the-badge&labelColor=0c1a2e" />
+  <img src="https://komarev.com/ghpvc/?username=Fajarrosyidi24&style=for-the-badge&color=0EA5E9&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-0EA5E9?style=for-the-badge&labelColor=0a0f1e" />
 </p>
 
 </div>
@@ -38,32 +34,32 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ### 🎨 Frontend & Templating
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-38BDF8?style=for-the-badge&logo=vue.js&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-7DD3FC?style=for-the-badge&logo=inertia&logoColor=0c1a2e)
+![Vue.js](https://img.shields.io/badge/Vue.js-38BDF8?style=for-the-badge&logo=vue.js&logoColor=0a0f1e)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-1e3a5f?style=for-the-badge&logo=inertia&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7DD3FC?style=for-the-badge&logo=bootstrap&logoColor=0c1a2e)
+![CSS3](https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0c2340?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e3a5f?style=for-the-badge&logo=bootstrap&logoColor=38BDF8)
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-7DD3FC?style=for-the-badge&logo=sqlite&logoColor=0c1a2e)
+![MySQL](https://img.shields.io/badge/MySQL-0c2340?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0EA5E9?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1e3a5f?style=for-the-badge&logo=sqlite&logoColor=38BDF8)
 
 ### ⛓️ Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-38BDF8?style=for-the-badge&logo=hardhat&logoColor=0c1a2e)
+![Solidity](https://img.shields.io/badge/Solidity-0a0f1e?style=for-the-badge&logo=solidity&logoColor=38BDF8)
+![Hardhat](https://img.shields.io/badge/Hardhat-0c2340?style=for-the-badge&logo=hardhat&logoColor=38BDF8)
 ![Ethereum](https://img.shields.io/badge/Ethereum-0EA5E9?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0c1a2e?style=for-the-badge&logo=github&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=38BDF8)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0EA5E9?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-38BDF8?style=for-the-badge&logo=linux&logoColor=0c1a2e)
-![Composer](https://img.shields.io/badge/Composer-7DD3FC?style=for-the-badge&logo=composer&logoColor=0c1a2e)
+![Linux](https://img.shields.io/badge/Linux-0c2340?style=for-the-badge&logo=linux&logoColor=38BDF8)
+![Composer](https://img.shields.io/badge/Composer-1e3a5f?style=for-the-badge&logo=composer&logoColor=38BDF8)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
@@ -106,8 +102,8 @@ RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fajarrosyidi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1a2e&title_color=38BDF8&icon_color=7DD3FC&text_color=ffffff&ring_color=0EA5E9&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarrosyidi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1a2e&title_color=38BDF8&text_color=ffffff&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fajarrosyidi24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38BDF8&icon_color=0EA5E9&text_color=c9d1d9&ring_color=0EA5E9&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fajarrosyidi24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="49%" />
 
 </div>
 
@@ -117,7 +113,7 @@ RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarrosyidi24&theme=tokyonight&hide_border=true&background=0c1a2e&stroke=0EA5E9&ring=38BDF8&fire=7DD3FC&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=38BDF8&sideNums=7DD3FC&dates=ffffff" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fajarrosyidi24&theme=tokyonight&hide_border=true&background=0a0f1e&stroke=0EA5E9&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=c9d1d9&currStreakNum=38BDF8&sideNums=0EA5E9&dates=c9d1d9" width="70%" />
 
 </div>
 
@@ -127,7 +123,7 @@ RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fajarrosyidi24&bg_color=0c1a2e&color=7DD3FC&line=38BDF8&point=0EA5E9&area=true&hide_border=true&area_color=0EA5E9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fajarrosyidi24&bg_color=0a0f1e&color=38BDF8&line=0EA5E9&point=38BDF8&area=true&hide_border=true&area_color=0c2340" width="100%" />
 
 </div>
 
@@ -161,10 +157,10 @@ RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke a
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0c1a2e?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Fajarrosyidi24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-fajar-rosyidi-a8020b242)
-[![Instagram](https://img.shields.io/badge/Instagram-38BDF8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jarwis_24)
-[![Email](https://img.shields.io/badge/Gmail-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0c1a2e)](mailto:fajarrosidi80@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/Fajarrosyidi24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c2340?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/mohammad-fajar-rosyidi-a8020b242)
+[![Instagram](https://img.shields.io/badge/Instagram-1e3a5f?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://instagram.com/jarwis_24)
+[![Email](https://img.shields.io/badge/Gmail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fajarrosidi80@gmail.com)
 
 </div>
 
@@ -172,7 +168,7 @@ RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,50:38BDF8,100:0EA5E9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0c2340,100:0a0f1e&height=120&section=footer" width="100%"/>
 
 **Terima kasih sudah mampir! Kalau ada proyek seru, jangan ragu untuk ngobrol. ☕**
 
