@@ -148,16 +148,6 @@ RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fajarrosyidi24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
-
-</div>
-
----
-
 ## 📋 Ringkasan Profil
 
 <div align="center">
