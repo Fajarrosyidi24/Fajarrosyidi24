@@ -41,15 +41,12 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ![Vue.js](https://img.shields.io/badge/Vue.js-38BDF8?style=for-the-badge&logo=vue.js&logoColor=0a0f1e)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-1e3a5f?style=for-the-badge&logo=inertia&logoColor=38BDF8)
 ![Next.js](https://img.shields.io/badge/Next.js-0a0f1e?style=for-the-badge&logo=next.js&logoColor=38BDF8)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-0c2340?style=for-the-badge&logo=alpine.js&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0EA5E9?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0c2340?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1e3a5f?style=for-the-badge&logo=bootstrap&logoColor=38BDF8)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -90,30 +87,6 @@ Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan
 ### 🗳️ [E-Voting Desa Berbasis Blockchain](https://github.com/Fajarrosyidi24/evoting-desa)
 Sistem pemilihan kepala desa yang transparan dan tidak bisa dimanipulasi — setiap suara tercatat di smart contract Ethereum dan dapat diverifikasi siapa saja.
 **Stack:** `Laravel` · `Node.js` · `Solidity` · `Hardhat` · `Ethereum`
-
----
-
-### ✍️ [SumernoteLingkarPena](https://github.com/Fajarrosyidi24/SumernoteLingkarPena)
-Platform penerbitan artikel untuk pelajar Indonesia dengan rich-text editor (Jodit), sistem autentikasi aman, dan manajemen konten lengkap.
-**Stack:** `Laravel` · `Inertia.js` · `React.js` · `MySQL`
-
----
-
-### 📰 [LingkarPena Pelajar](https://github.com/Fajarrosyidi24/LingkarPenaPelajar)
-Web platform untuk berbagi dan menjelajahi artikel inspiratif — dilengkapi fitur pencarian, kategori, dan tampilan yang bersih.
-**Stack:** `PHP` · `CSS` · `HTML`
-
----
-
-### 🕌 [Mifda Banyuwangi](https://github.com/Fajarrosyidi24/Mifda-Banyuwangi)
-Sistem informasi pesantren yang mengelola data santri, kurikulum, tenaga pendidik, dan evaluasi pembelajaran dalam satu platform.
-**Stack:** `Laravel` · `PHP` · `CSS`
-
----
-
-### 💰 [API Pencatatan Keuangan](https://github.com/Fajarrosyidi24/Api-Penncatatan-Keuangan)
-RESTful API untuk pencatatan pemasukan dan pengeluaran, siap diintegrasikan ke aplikasi keuangan apapun.
-**Stack:** `PHP` · `MySQL`
 
 ---
 
