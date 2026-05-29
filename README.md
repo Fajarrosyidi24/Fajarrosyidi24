@@ -16,26 +16,22 @@
 
 ## 👨‍💻 Halo, Saya Fajar!
 
-Saya seorang **Full Stack Developer** asal Indonesia yang fokus membangun aplikasi web berdampak nyata — mulai dari platform pendidikan untuk pelajar, sistem manajemen pesantren, hingga e-voting berbasis blockchain untuk desa.
+Saya seorang **Full Stack Developer** asal Indonesia, jawa Timur yang fokus membangun aplikasi web berdampak nyata — mulai dari Company Profile, Sistem manajemen administrasi, hingga Toko Online 
 
 Saya sangat nyaman di ekosistem **Laravel** dan sering mengombinasikannya dengan **React**, **Vue**, atau **Inertia.js** untuk membangun aplikasi yang solid dari frontend sampai backend.
 
-> *"Kode yang baik bukan tentang seberapa pintar kamu — tapi seberapa besar dampaknya bagi orang lain."*
+> *"Untuk menang besar, terkadang kamu harus mengambil resiko yang besar pula - Bill Gates."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔴 Backend & Framework
+### 🔴 Framework
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-0a0f1e?style=for-the-badge&logo=express&logoColor=38BDF8)
 ![REST API](https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-0EA5E9?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🎨 Frontend & Templating
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-38BDF8?style=for-the-badge&logo=vue.js&logoColor=0a0f1e)
